@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Oswald Stencil Regular
+Author:Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/oswald
+
+Font: SOFIA
+Author:	Latinotype
+Url: http://www.fontsquirrel.com/fonts/sofia
