@@ -1,9 +1,9 @@
 Fonts used in this design:
 
-Font: Oswald Stencil Regular
-Author:Vernon Adams
-Url: http://www.fontsquirrel.com/fonts/oswald
+Font: Metropolis
+Author: Chris Simpson
+Url: https://www.fontsquirrel.com/fonts/metropolis
 
-Font: SOFIA
-Author:	Latinotype
-Url: http://www.fontsquirrel.com/fonts/sofia
+Font: Girassol
+Author: Liam Spradlin
+Url: https://www.fontsquirrel.com/fonts/girassol
